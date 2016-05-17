@@ -4,7 +4,7 @@ import net.mikus.assignment.sizeextractor.model.Product
 import spock.lang.Specification
 
 
-class ProcessorSpec extends Specification {
+class SizeProcessorSpec extends Specification {
 
     SizeProcessor processor = new SizeProcessor()
 
